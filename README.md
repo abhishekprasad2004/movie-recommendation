@@ -1,6 +1,7 @@
 # movie-recommendation
 content based
 
+dataset link :- https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 ast.literal_eval
 
     Used for: Converting string representations of lists (e.g., genres, cast, keywords) into actual Python list objects.
